@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: .2em .5em ;
+}
+
+table {
+    margin-top: 2em;
+    margin-left: .5em;
+    table-layout: fixed;
+}
+
+table th {
+    width: 5rem;
+    margin-right: 5rem;
+    text-align: left;
+    display: inline-block;
+}
+
